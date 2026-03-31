@@ -8,21 +8,23 @@
 
 ## 🚀 About Me
 
-I’m a Full-Stack Developer with hands-on experience building web and mobile applications from scratch. I enjoy solving real-world problems through clean, scalable code and working across the entire development lifecycle — from requirements analysis to deployment.
+I’m a Full-Stack Developer with hands-on experience building web and mobile applications from scratch. I focus on writing clean, scalable code and designing robust backend architectures.
 
-I have practical experience implementing authentication systems, role-based permissions, and designing backend architectures using modern frameworks.
+I have strong experience implementing authentication systems, role-based permissions, and working with microservices-oriented systems.
 
 ---
 
 ## 🧠 What I Do
 
 - Build full-stack applications (frontend + backend)
-- Design and implement REST APIs
-- Develop authentication & authorization systems (JWT)
-- Create role-based and permission-based access control systems
-- Work with relational and non-relational databases
-- Design UI/UX prototypes focused on usability
-- Document systems using UML, ER diagrams, and technical specs
+- Design scalable backend architectures (monolith & microservices)
+- Develop REST APIs
+- Implement authentication & authorization (JWT)
+- Create role-based access control systems (RBAC)
+- Work with SQL & NoSQL databases
+- Integrate third-party services (payments, media storage)
+- Design UI/UX prototypes
+- Write technical documentation (UML, ERD, WBS)
 
 ---
 
@@ -53,51 +55,59 @@ I have practical experience implementing authentication systems, role-based perm
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### ☁️ DevOps & Tools
+### ☁️ DevOps & Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![Render](https://img.shields.io/badge/Render-00979D?style=for-the-badge&logo=render&logoColor=white)
+
+### 🔌 Integrations & Services
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Clip](https://img.shields.io/badge/Clip_Pagos-FF3E00?style=for-the-badge)
+
+### 🏗️ Architecture
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 
 ### 🔐 Security & Others
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F?style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![AI Tools](https://img.shields.io/badge/AI%20Agents-FF6F00?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-FF6F00?style=for-the-badge)
+
+---
 
 ## 📌 Experience Highlights
 
 ### 🔹 Full-Stack Developer — Software Development Center (CDS)
 - Built appointment management system (CRUD + business logic)
-- Developed employee module with multi-role and permissions system
+- Developed employee module with RBAC and multi-role support
 - Implemented JWT authentication (NestJS & Spring Boot)
-- Created full incident reporting system from scratch
-- Automated internal processes to improve efficiency
-- Produced technical documentation (UML, ERD, WBS)
+- Built an incident reporting system from scratch
+- Automated internal workflows
+- Created UML diagrams, ERD, and technical documentation
 
 ### 🔹 Software Engineer — Digital Transformation Agency
-- Designed role-based permission system (NestJS + Next.js)
+- Designed RBAC system (NestJS + Next.js)
 - Implemented secure authentication (frontend + backend)
-- Migrated and normalized legacy databases (PostgreSQL)
-- Worked in remote environments using SSH, VPN & GitLab
+- Migrated and normalized databases (PostgreSQL)
+- Worked with remote infrastructure (SSH, VPN, GitLab)
 
 ---
 
 ## 📈 Currently Improving
 
 - English (A2 → B1)
-- System design and scalable architectures
-- Advanced backend patterns and best practices
+- Scalable system design
+- Microservices best practices
 
 ---
 
-## 📫 Let's Connect
+## 📫 Contact
 
-- 💼 Open to opportunities and collaborations
-- 📧 enriquedejesushernandezlanda@gmail.com
+📧 enriquedejesushernandezlanda@gmail.com  
+💼 Open to work and collaborations  
 
 ---
 
-⭐ *Always learning, always building.*
+⭐ Always learning, always building.
