@@ -2,7 +2,7 @@
 
 💻 Full-Stack Developer | Software Engineering Technician  
 📍 Mexico  
-📧 enriquedejesushernandezlanda@gmail.com  
+📧 enriquedjhl@gmail.com 
 
 ---
 
@@ -29,6 +29,10 @@ I have strong experience implementing authentication systems, role-based permiss
 ---
 
 ## 🛠️ Tech Stack
+
+### 🧩 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -105,7 +109,7 @@ I have strong experience implementing authentication systems, role-based permiss
 
 ## 📫 Contact
 
-📧 enriquedejesushernandezlanda@gmail.com  
+📧 enriquedjhl@gmail.com 
 💼 Open to work and collaborations  
 
 ---
