@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Enrique Hernández
+#  Hi, I'm Enrique Hernández
 
 💻 Full-Stack Developer | Software Engineering Technician  
 📍 Mexico  
